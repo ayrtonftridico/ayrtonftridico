@@ -22,7 +22,7 @@ Atuo profissionalmente como estagiário e estou buscando uma vaga de Desenvolved
   <a href="mailto:ayrtonftridico@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=ayrtonftridico@gmail.com" /></a>
 
-  <a href="www.linkedin.com/in/ayrtontridico/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/ayrtontridico/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayrtontridico/" /></a>
 
   <a href="https://api.whatsapp.com/send?phone=5511958621740" alt="WhatsApp">
