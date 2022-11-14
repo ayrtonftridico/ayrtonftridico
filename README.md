@@ -1,13 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá! Meu nome é Ayrton Tridico e eu desejo me tornar um desenvolvedor de software!
-
-Atuo profissionalmente como estagiário e estou buscando uma vaga de Desenvolvedor Júnior.
+  Olá! Meu nome é Ayrton Tridico e eu sou Engenheiro de Dados!
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>C#, JavaScript, NodeJs, ReactJs</strong>
+  🦄 Linguagens: <strong>Python, C#, JavaScript, NodeJs, ReactJs</strong>
 </p>
 
 <p align="left">
