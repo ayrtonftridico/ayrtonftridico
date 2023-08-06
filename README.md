@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Python, C#, JavaScript, NodeJs, ReactJs</strong>
+  🦄 Linguagens: <strong>Spark, Python, C#, JavaScript, NodeJs, ReactJs</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Microsoft SQL Server, MongoDB, Amazon Web Services</strong>
+  💼 Ferramentas: <strong>Microsoft SQL Server, MongoDB, AWS Glue, AWS Athena</strong>
 </p>
 
 <p align="left">
