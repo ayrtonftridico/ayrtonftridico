@@ -1,11 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá! Meu nome é Ayrton Tridico e eu sou Engenheiro de Dados / Dev Backend!
+  Olá! Meu nome é Ayrton Tridico e eu sou Engenheiro de Dados Sênior
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Spark, Python, C#, JavaScript, NodeJs, ReactJs</strong>
+  🦄 Linguagens: <strong>Spark, Python</strong>
 </p>
 
 <p align="left">
