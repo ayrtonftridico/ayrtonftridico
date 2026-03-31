@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  Atuo na <strong>DataSide</strong> em projetos estratégicos de dados (pipelines, qualidade, observabilidade e governança). Antes, passei <strong>5 anos no Itaú</strong> com engenharia de dados em ambiente financeiro, incluindo modernização de cargas (SSIS → AWS) e iniciativas com dados e IA aplicada a imagens.
+  Atuo na <strong>DataSide</strong> em projetos estratégicos de dados (pipelines, qualidade, observabilidade e governança). Antes, passei <strong>5 anos no Itaú</strong> com engenharia de dados em ambiente financeiro, incluindo modernização de pipelines legados e iniciativas com dados e IA aplicada a imagens.
 </p>
 
 <p align="left">
